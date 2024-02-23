@@ -1,0 +1,5 @@
+Instruções para executar:
+python3 servidor.py NUMERO_PORTO
+
+Para executar o cliente:
+python3 cliente.py ID IP NUMERO_PORTO
